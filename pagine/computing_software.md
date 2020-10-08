@@ -22,7 +22,7 @@ RaspberryPi 3 Mod. B, monitor LCD 7″ VGA a 12V, mini-tastiera con touchpad, US
 
 **software**
 
-sistema operativo Raspberry Pi OS (https://www.raspberrypi.org/downloads/)
+sistema operativo [Raspberry Pi OS] (https://www.raspberrypi.org/downloads/)
 
 [openplotter](http://openmarine.net/)
 
@@ -30,7 +30,7 @@ software di navigazione : [openCPN](http://opencpn.org)
 
 mappe raster formato BSB/KAP : Digital Nautical Charts for sailing
 
-previsioni meteo : ZyGrib (https://www.zygrib.org/)
+previsioni meteo : [ZyGrib] (https://www.zygrib.org/)
 
 **ricevitori GPS**
 
