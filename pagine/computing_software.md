@@ -30,7 +30,7 @@ software di navigazione : [openCPN](http://opencpn.org)
 
 mappe raster formato BSB/KAP : Digital Nautical Charts for sailing
 
-previsioni meteo : ZyGrib
+previsioni meteo : ZyGrib (https://www.zygrib.org/)
 
 **ricevitori GPS**
 
