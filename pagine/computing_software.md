@@ -22,7 +22,7 @@ RaspberryPi 3 Mod. B, monitor LCD 7″ VGA a 12V, mini-tastiera con touchpad, US
 
 **software**
 
-sistema operativo Raspberry Pi OS
+sistema operativo Raspberry Pi OS (https://www.raspberrypi.org/downloads/)
 
 [openplotter](http://openmarine.net/)
 
