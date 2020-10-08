@@ -14,7 +14,7 @@ Asus EEEpc E1215P [Linux]
 
 RaspberryPi 3 Mod. B, monitor LCD 7″ VGA a 12V, mini-tastiera con touchpad, USB HUB 7 porte
 
-[Interfaccia SeaTalk-NMEA USB bridge collegata alla presa SeaTalk del TRIDATA Raymarine](http://www.gadgetpool.de)
+[Interfaccia SeaTalk-NMEA USB bridge collegata alla presa SeaTalk del TRIDATA Raymarine](http://www.gadgetpool.eu/product_info.php?products_id=70)
 
 [ricevitore AIS dAISy](https://www.tindie.com/products/astuder/daisy-ais-receiver/)
 
