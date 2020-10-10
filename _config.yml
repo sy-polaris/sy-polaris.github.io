@@ -9,6 +9,7 @@ baseurl: ""
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
+theme: dark-poole
 
 # Gems
 plugins:
