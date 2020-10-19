@@ -5,8 +5,8 @@ title: Computing e software
 **Computer di bordo**
 
 Dell Latitude E7250 [Windows 10, Linux]
-
 Asus EEEpc E1215P [Linux]
+Toshiba Satellite U200 [Linux]
 
 **Sistema di navigazione**
 
